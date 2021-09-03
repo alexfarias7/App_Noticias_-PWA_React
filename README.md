@@ -1,4 +1,4 @@
-# Repositorio do projeto de App de noticias utilisndo React e PWA 
+# Repositorio do projeto de App de noticias utilisando React e PWA 
 
 Este projeto foi criado como estudos no Bootcamp LocalizaLabs React Developer na Dio.
 
